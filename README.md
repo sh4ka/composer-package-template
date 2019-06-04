@@ -43,7 +43,6 @@ This will create a basic project structure for you:
 * **README.md** it is a mini documentation of the library, this is usually the "home page" of your repo if you published it on GitHub and Packagist;
 * **composer.json** is where the information about your library is stored, like package name, author and dependencies;
 * **phpunit.xml** It is a configuration file of PHPUnit, so that tests classes will be able to test the classes you've written;
-* **.travis.yml** basic configuration for Travis CI with configured test coverage reporting for code climate.
 
 Please refer to original [article](http://www.darwinbiler.com/creating-composer-package-library/) for more information.
 
