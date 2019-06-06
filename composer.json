@@ -1,7 +1,7 @@
 {
-    "name": "gino-pane/composer-package-template",
+    "name": "sh4ka/composer-package-template",
     "description": "Basic composer package template for creating other packages.",
-    "homepage": "http://github.com/GinoPane/composer-package-template",
+    "homepage": "http://github.com/sh4ka/composer-package-template",
     "keywords": [
         "template",
         "composer",
@@ -15,20 +15,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Darwin Biler",
-            "email": "buonzz@gmail.com"
-        },
-        {
-            "name": "Sergey <Gino Pane> Karavay",
-            "homepage": "http://sergey.karavay.name",
-            "email": "sergey.karavay@gmail.com",
-            "role": "Developer"
+            "name": "Jesús Flores",
+            "email": "me@jesusfloressanjose.com"
         }
     ],
     "support": {
-        "source": "http://github.com/GinoPane/composer-package-template",
-        "docs": "https://github.com/GinoPane/composer-package-template/blob/master/README.md",
-        "issues": "https://github.com/GinoPane/composer-package-template/issues"
+        "source": "http://github.com/sh4ka/composer-package-template",
+        "docs": "https://github.com/sh4ka/composer-package-template/blob/master/README.md",
+        "issues": "https://github.com/sh4ka/composer-package-template/issues"
     },
     "type": "project",
     "require": {
@@ -42,7 +36,7 @@
     },
     "autoload": {
         "psr-4": {
-            "GinoPane\\Template\\": "src/"
+            "CustomNamespace\\Template\\": "src/"
         }
     },
     "scripts": {
