@@ -1,6 +1,6 @@
 <?php
 
-namespace GinoPane\Template;
+namespace CustomNamespace\Template;
 
 /**
 *  A sample class
@@ -8,8 +8,8 @@ namespace GinoPane\Template;
 *  Use this section to define what this class is doing, the PhpDocumentor will use this
 *  to automatically generate the API documentation
 *
-*  @author GinoPane
- * @package GinoPane\Template
+*  @author Jesús Flores <me@jesusfloressanjose.com>
+ * @package CustomNamespace\Template
 */
 class YourClass
 {

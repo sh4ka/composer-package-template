@@ -1,6 +1,6 @@
 <?php 
 
-namespace GinoPane\Template;
+namespace CustomNamespace\Template;
 
 use PHPUnit\Framework\TestCase;
 
@@ -9,7 +9,7 @@ use PHPUnit\Framework\TestCase;
 *
 *  For each class in your library, there should be a corresponding unit test
 *
-*  @author yourname
+*  @author Jesús Flores <me@jesusfloressanjose.com>
 */
 class YourClassTest extends TestCase
 {
